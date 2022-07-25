@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Communication</string>
+    <string name="go_to_secondactivity">Go to SecondActivity</string>
+    <string name="input_name">Введите имя</string>
+    <string name="send">Отправить</string>
+    <string name="input_question">Введите вопрос</string>
+</resources>
